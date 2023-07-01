@@ -20,7 +20,6 @@
 # include <string.h>
 # include "get_next_line.h"
 # include "../minilibx/mlx.h"
-
 typedef struct t_start
 {
 	int		fd;
